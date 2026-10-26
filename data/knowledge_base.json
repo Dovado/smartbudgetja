@@ -1,0 +1,147 @@
+[
+    {
+        "id": "KB-001",
+        "category": "Income",
+        "question": "What is net pay?",
+        "answer": "Net pay is the amount of earnings remaining after applicable deductions.",
+        "keywords": [
+            "net pay",
+            "take home pay",
+            "salary after deductions"
+        ],
+        "source": "Instructor-approved glossary"
+    },
+    {
+        "id": "KB-002",
+        "category": "Income",
+        "question": "What is gross pay?",
+        "answer": "Gross pay is the total amount earned before deductions.",
+        "keywords": [
+            "gross pay",
+            "salary before deductions",
+            "gross salary"
+        ],
+        "source": "Instructor-approved glossary"
+    },
+    {
+        "id": "KB-003",
+        "category": "Budgeting",
+        "question": "What is a budget?",
+        "answer": "A budget is a plan for managing income and expenses over a period of time.",
+        "keywords": [
+            "budget",
+            "financial plan",
+            "monthly budget"
+        ],
+        "source": "Instructor-approved glossary"
+    },
+    {
+        "id": "KB-004",
+        "category": "Budgeting",
+        "question": "What is a budget balance?",
+        "answer": "A budget balance is the amount remaining after recorded expenses are subtracted from the income allocated to the same period.",
+        "keywords": [
+            "budget balance",
+            "remaining money",
+            "income minus expenses"
+        ],
+        "source": "Instructor-approved glossary"
+    },
+    {
+        "id": "KB-005",
+        "category": "Expenses",
+        "question": "What are utility expenses?",
+        "answer": "Utility expenses commonly include household services such as electricity and water.",
+        "keywords": [
+            "utilities",
+            "electricity",
+            "water",
+            "utility bills"
+        ],
+        "source": "Instructor-approved glossary"
+    },
+    {
+        "id": "KB-006",
+        "category": "Expenses",
+        "question": "What is a recurring expense?",
+        "answer": "A recurring expense is a cost that occurs repeatedly, such as monthly rent or an internet subscription.",
+        "keywords": [
+            "recurring expense",
+            "monthly bills",
+            "regular payments"
+        ],
+        "source": "Instructor-approved glossary"
+    },
+    {
+        "id": "KB-007",
+        "category": "Banking",
+        "question": "What is a credit card minimum payment?",
+        "answer": "The minimum payment is the smallest amount the card issuer requires by the payment due date under the card agreement. Paying only the minimum may result in additional interest and a longer repayment period.",
+        "keywords": [
+            "credit card",
+            "minimum payment",
+            "card payment"
+        ],
+        "source": "Instructor-reviewed example definition"
+    },
+    {
+        "id": "KB-008",
+        "category": "Savings",
+        "question": "What is savings?",
+        "answer": "Savings is money set aside from income instead of being spent, so it can be used later.",
+        "keywords": [
+            "savings",
+            "saving money",
+            "money set aside"
+        ],
+        "source": "Supplementary example — pending instructor review"
+    },
+    {
+        "id": "KB-009",
+        "category": "Savings",
+        "question": "What is an emergency fund?",
+        "answer": "An emergency fund is money reserved for unexpected expenses, such as urgent repairs or a temporary loss of income.",
+        "keywords": [
+            "emergency fund",
+            "unexpected expenses",
+            "rainy day fund"
+        ],
+        "source": "Supplementary example — pending instructor review"
+    },
+    {
+        "id": "KB-010",
+        "category": "Banking",
+        "question": "What is interest?",
+        "answer": "Interest is the cost of borrowing money or the return earned on savings, usually expressed as a percentage rate.",
+        "keywords": [
+            "interest",
+            "interest rate",
+            "cost of borrowing"
+        ],
+        "source": "Supplementary example — pending instructor review"
+    },
+    {
+        "id": "KB-011",
+        "category": "Expenses",
+        "question": "What is a fixed expense?",
+        "answer": "A fixed expense is a cost that stays about the same each period, such as rent or a loan instalment.",
+        "keywords": [
+            "fixed expense",
+            "fixed cost",
+            "regular fixed payment"
+        ],
+        "source": "Supplementary example — pending instructor review"
+    },
+    {
+        "id": "KB-012",
+        "category": "Expenses",
+        "question": "What is a variable expense?",
+        "answer": "A variable expense is a cost that changes from period to period, such as groceries or transportation.",
+        "keywords": [
+            "variable expense",
+            "variable cost",
+            "changing expenses"
+        ],
+        "source": "Supplementary example — pending instructor review"
+    }
+]

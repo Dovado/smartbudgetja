@@ -1,0 +1,16 @@
+SMARTBUDGET JA - SAMPLE FINANCIAL GUIDE
+
+Net Pay:
+The amount an employee receives after deductions
+have been subtracted from gross earnings.
+
+Gross Pay:
+The total earnings before deductions.
+
+Utilities:
+A budget category that may include electricity
+and water expenses.
+
+Budget Balance:
+The amount remaining after recorded expenses
+have been subtracted from income.
